@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikrishnatbijil
-- 👀 I’m interested in ... Mobile dev, robotics
-- 🌱 I’m currently learning ... LFS
+- 👀 I’m interested in Mobile dev, Web Designing
+- 🌱 I’m currently learning ReactJS for Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
