@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saikrishnatbijil
+- 👋 Hi, I’m @saikrishnatbijil, A Professional non-professional dev.
 - 👀 I’m interested in Mobile dev, Web Designing
 - 🌱 I’m currently learning ReactJS for Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
